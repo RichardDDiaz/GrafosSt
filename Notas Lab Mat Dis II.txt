@@ -1,0 +1,21 @@
+Pagina:
+https://www.famaf.unc.edu.ar/~penazzi/Discreta2020pagina.html
+
+
+Formato de entrega: 
+ - revisar que los directorio contengan archivos necesarios .c o .h y en los directorio
+ indicados.
+ - se compilara con gcc, -Wall, -Wextra, -O3, -std=c99 . Y con -I desde el directorio
+principal o si hay otro .h en la carpeta CangrejoEstelar, -ICangrejoEstelar
+ - tener cuidado con producir buffer overflows, shadow variables o comportamientos
+indefinidos, se probara con el flag -fsanitize=address,undefined, entre otros. Tambien
+-DNDEBUG en caso de mal uso de asserts.
+-El archivo de DatosContactos debe ser ASCII
+-No debe haber ningun veinteveinte.h en el directorio de entrega
+
+Preguntas:
+ - ¿Que es un greedy iterado?
+
+Division: agu: 3.2, 4.3
+					richard:3.1, 4.1
+					valen: 3.3, 4.2

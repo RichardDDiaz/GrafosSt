@@ -1,0 +1,11 @@
+c djmvbjskbfjbsd,sbf
+c dnsdfjsbdfjsbdnfbsfsf
+c djfnsjkldsflsdjk    ... dfndssdf sddfnv n n kin
+c dfjnsdfnnskf ......
+p edge 6 6
+e 10 20
+e 30 10
+e 40 10
+e 40 30
+e 50 40
+e 60 10

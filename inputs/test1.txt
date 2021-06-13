@@ -1,0 +1,11 @@
+c File:  fpsol2.i.3.col
+c
+c SOURCE: Gary Lewandowski (gary@cs.wisc.edu)
+c
+c DESCRIPTION: Coloring problem generated from a register allocation
+c              problem based on real code.
+c
+c graph #3 from register allocation file -
+c corregido para que n indique numero real de vertices
+p edge 2 1
+e 10 20
